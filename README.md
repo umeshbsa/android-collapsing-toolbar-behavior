@@ -1,5 +1,5 @@
 # android-collapsing-toolbar-behavior
-
+<img src="https://github.com/umeshbsa/android-collapsing-toolbar-behavior/blob/master/screen.gif"/>
 
 
 #### Licence
